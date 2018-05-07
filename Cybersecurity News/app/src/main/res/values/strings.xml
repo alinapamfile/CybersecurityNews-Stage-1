@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cybersecurity News</string>
+
+    <string name="no_news">No news found. Please reload the app or try later.</string>
+    <string name="no_internet_connection">No internet connection. Please check your internet connection and turn off airplane mode.</string>
+
+    <string name="section_example">Cyber Aware</string>
+    <string name="title_example">Is your social network a cybersecurity risk?</string>
+    <string name="author_example">Hannah Summers</string>
+    <string name="date_example">2018-02-27</string>
+</resources>
